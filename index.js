@@ -1,10 +1,7 @@
-//semicolons are not required but prefered
-var a; //declare a variable
-var b = 2; //declare and assign
+var a = 5;
+var b = 10;
+var c = "I am a";
 
-console.log(a);
-a = 7;
-
-b = a;
-
-console.log(a);
+a = a + 1;
+b = b + 5;
+c = c + " String!";
