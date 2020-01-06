@@ -1,62 +1,39 @@
-/*
-//Addition
-var sum = 10 + 10;
-console.log(sum);
+// Compound Assignment with Augmented Subtraction  19:22
 
-//Subtraction
 
-var difference = 45-33;
-console.log(difference);
+// var a = 11;
+// var b = 9;
+// var c = 3;
 
-//Multiplication
+// // Only modify code below this line
 
-var product = 8 * 10;
-console.log(product);
+// a -= 6;
+// b -= 15;
+// c -= 1;
+// console.log(a);
 
-//Division
+// Compound Assignment with Augmented Multiplication ~ 20:20
 
-var quotient = 66 / 33;
-console.log(quotient);
+// var a = 5;
+// var b = 12;
+// var c = 4.6;
 
-//Increment
-var myVar = 87;
-myVar++;
+// // Only modify code below this line
 
-//Decrement
-var myVar = 11;
+// a *= 5;
+// b *= 3;
+// c *= 10;
+// console.log(a);
 
-myVar--;
-console.log(myVar);
-*/
+// Compound Assignment with Augmented Division ~ 20:52
 
-//Decimal Numbers
+// var a = 48;
+// var b = 108;
+// var c = 33;
 
-// var ourDecimal = 5.7;
-// var myDecimal = 0.009;
+// // Only modify code below this line
 
-// var product = 2.0 * 2.5;
-
-// console.log(product);
-
-// //Divide Decimal numbers
-
-// var quotient = 4.4 / 2.0;
-
-//Finding a Remainder
-
-// var remainder;
-// remainder = 11 % 3;
-// console.log(remainder);
-
-//Compound Assignment with Augmented Addition 18:24
-
-var a = 3;
-var b = 17;
-var c = 12;
-
-// Only modify code below this line
-
-a += 12;
-b += 9;
-c += 7;
-console.log(a);
+// a /= 12;
+// b /= 4;
+// c /= 11;
+// console.log(b);
