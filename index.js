@@ -49,3 +49,14 @@ console.log(myVar);
 // console.log(remainder);
 
 //Compound Assignment with Augmented Addition 18:24
+
+var a = 3;
+var b = 17;
+var c = 12;
+
+// Only modify code below this line
+
+a += 12;
+b += 9;
+c += 7;
+console.log(a);
